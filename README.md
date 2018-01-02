@@ -1,6 +1,8 @@
 # shell_setting
 
-## lzrz安装
+## lrzsz安装
+
+copy from:https://www.jianshu.com/p/2f131136e385
 
 rz/sz卡死问题解决
 1. 安装lrzsz
@@ -38,4 +40,4 @@ brew install lrzsz
 
 具体配置如下图：
 
-from:https://www.jianshu.com/p/2f131136e385
+
